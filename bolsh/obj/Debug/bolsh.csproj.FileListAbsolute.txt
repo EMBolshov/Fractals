@@ -1,0 +1,36 @@
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\bin\Debug\bolsh.exe.config
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\bin\Debug\bolsh.exe
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\bin\Debug\bolsh.pdb
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\obj\Debug\bolsh.csprojResolveAssemblyReference.cache
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\obj\Debug\bolsh.Form1.resources
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\obj\Debug\bolsh.Properties.Resources.resources
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\obj\Debug\bolsh.csproj.GenerateResource.Cache
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\obj\Debug\bolsh.exe
+c:\users\daria\documents\visual studio 2013\Projects\bolsh\bolsh\obj\Debug\bolsh.pdb
+G:\Фракталы\bolsh\bolsh\bin\Debug\bolsh.exe.config
+G:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.exe
+G:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.pdb
+G:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.csprojResolveAssemblyReference.cache
+G:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.Form1.resources
+G:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.Properties.Resources.resources
+G:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.csproj.GenerateResource.Cache
+G:\Фракталы\bolsh\bolsh\bin\Debug\bolsh.exe
+G:\Фракталы\bolsh\bolsh\bin\Debug\bolsh.pdb
+E:\Фракталы\bolsh\bolsh\bin\Debug\bolsh.exe.config
+E:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.exe
+E:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.pdb
+E:\Фракталы\bolsh\bolsh\bin\Debug\bolsh.exe
+E:\Фракталы\bolsh\bolsh\bin\Debug\bolsh.pdb
+E:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.csprojResolveAssemblyReference.cache
+E:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.Form1.resources
+E:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.Properties.Resources.resources
+E:\Фракталы\bolsh\bolsh\obj\Debug\bolsh.csproj.GenerateResource.Cache
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\bin\Debug\bolsh.exe.config
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\obj\Debug\bolsh.exe
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\obj\Debug\bolsh.pdb
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\bin\Debug\bolsh.exe
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\bin\Debug\bolsh.pdb
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\obj\Debug\bolsh.csprojResolveAssemblyReference.cache
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\obj\Debug\bolsh.Form1.resources
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\obj\Debug\bolsh.Properties.Resources.resources
+C:\Users\DDRS\Desktop\шарага\Фракталы\bolsh\bolsh\obj\Debug\bolsh.csproj.GenerateResource.Cache
